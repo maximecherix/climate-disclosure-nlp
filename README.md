@@ -51,11 +51,12 @@ pip install -r requirements.txt
 ```
 ## Data Access
 Due to file size limits on GitHub, the raw data (including 10-K filings and disaster datasets) is hosted externally on Google Drive.
-CLICK ON THIS LINK TO DOWNLOAD RAW DATA: https://drive.google.com/drive/folders/1jYqWfovVHXVcZ4hfORi0wXH5p6KYu357?usp=sharing
-Instructions:
-	1	Download the .zip file and .csv files from the link above.
-	2	Extract the contents.
-	3	Move the files into the data/raw/ folder in this repository.
+
+### Instructions
+1. Download the .zip file and .csv files from the following Google Drive:
+https://drive.google.com/drive/folders/1jYqWfovVHXVcZ4hfORi0wXH5p6KYu357?usp=sharing
+2. Extract the contents.
+3. Move the files into the data/raw/ folder in this repository.
 Your directory should look like this after downloading:
 ```bash
 data/

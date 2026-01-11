@@ -22,16 +22,16 @@ The project is organized as follows:
 ```
 ## Prerequisites
 To run this code, you need:
-	•	Python 3.8+
-	•	Jupyter Notebook or JupyterLab
-	•	Standard data science libraries (pandas, numpy, scikit-learn, matplotlib)
-	•	NLP libraries (transformers, torch)
+- Python 3.8+
+- Jupyter Notebook or JupyterLab
+- Standard data science libraries (pandas, numpy, scikit-learn, matplotlib)
+- NLP libraries (transformers, torch)
 Installation & Setup
 1. Clone the Repository
 ```bash
 
 git clone https://github.com/maximecherix/climate-disclosure-nlp
-cd YOUR_REPO_NAME
+cd climate-disclosure-nlp
 ```
 2. Set up a Virtual Environment (Recommended)
 It is highly recommended to use a virtual environment to manage dependencies.

@@ -1,4 +1,4 @@
-# Avdanced Data Analysis - Fall 2025 - Capstone Project
+# Advanced Data Analysis - Fall 2025 - Capstone Project
 
 This repository contains the source code and replication materials for the research project: **"How do physical climate exposure and the quality of climate risk disclosure jointly affect market-perceived risk?"**
 
